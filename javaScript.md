@@ -5,9 +5,6 @@ date: 2019-11-12 10:18:21
 categories: js
 tags: [js,前端]
 ---
-**[github笔记下载地址](https://github.com/codeOflI/codeOflI.github.io/blob/dev/source/_posts/js-note/javaScript/javaScript.md)**
-[TOC]
-
 # JavaScript  
 
 JavaScript负责页面中的的行为。  
@@ -66,12 +63,12 @@ var functionName=function(arg0,arg1,arg2){
 
 注释  
 
-单行注释  
+单行注释  vscode快捷键 ctrl+/
 
 ```javascript  
 //注释内容  
 ```
-多行注释  
+多行注释  vscode快捷键 alt+shift+a
 ```javascript  
 /*  
 注释内容  
