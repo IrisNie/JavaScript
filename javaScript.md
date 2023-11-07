@@ -140,7 +140,8 @@ xxxYyyZzz
  Undefined 未定义  
  Object 对象  
 
- 其中基本数据类型有	5个  
+ 基本数据类型有：5个  
+ 引用数据类型： Object
 
 **typeof运算符检查数据类型**  
 
